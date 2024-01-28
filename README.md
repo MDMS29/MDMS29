@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-- I am a `Junior` at [Servicio Nacional de Aprendizaje (SENA)](https://www.sena.edu.co/es-co/Paginas/default.aspx) at [Suez Canal University](http://suez.edu.eg/ar/).
+- I am a `Junior` at [Servicio Nacional de Aprendizaje (SENA)](https://www.sena.edu.co/es-co/Paginas/default.aspx).
 - I love using Software as a solution for every `Problem`.
 - Always `learning new things`.
 
